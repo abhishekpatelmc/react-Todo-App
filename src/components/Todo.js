@@ -3,10 +3,10 @@ const Todo = () => {
     <div className="todo">
       <li className="todo-item">HEYY</li>
       <button className="complete-btn">
-        <i className="fas fas-check"></i>
+        <i className="fas fa-check"></i>
       </button>
       <button className="trash-btn">
-        <i className="fas fas-trash"></i>
+        <i className="fas fa-trash"></i>
       </button>
     </div>
   );
